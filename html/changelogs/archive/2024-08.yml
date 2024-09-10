@@ -127,3 +127,24 @@
   ivanmixo:
   - bugfix: Fixed ghosts being able to make huggers jump out of bags
   - code_imp: Hugger code is a little bit better
+2024-08-25:
+  ICE-IS-NICE:
+  - rscadd: Suppressor makes bullets less visible.
+  Lumipharon:
+  - bugfix: fixed AGLS frag rounds detonating under mobs
+  yyzsong:
+  - balance: SG-29 reqtorio drum refill 250 -> 350 points
+  - balance: SG-85 reqtorio bin refill 250 -> 350 points
+  - balance: SG-62 reqtorio magazine refill 250 -> 400 points
+  - balance: SG-62 reqtorio ammo bin refill 250 -> 400 points
+2024-08-26:
+  Isy232:
+  - qol: Research Outpost LZ 1 Minor Expansion for Vehicles
+2024-08-30:
+  Joe13413:
+  - rscadd: New survivor armor and melee weapon
+  - balance: Survivors now spawn with job specific gear, radios, flashlights, and
+      crowbars.
+2024-08-31:
+  Lumipharon:
+  - bugfix: fixed mobs getting perma space debuff when riding tanks across z-levels
